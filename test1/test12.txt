@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 HI, THIS IS INSIDE TEST12 FILE
+=======
+HI, I AM DOING THIS TEXT IN GITHUB
+******************
+I AM MODIFYING IN CLI
